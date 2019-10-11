@@ -11,9 +11,9 @@
 
     <!-- UNITY WEBGL BUILD -->
     {% if page.build_path %}
-        <script src="/builds/{{ page.build_path }}/UnityLoader.js"></script>
+        <script src="{{ site.baseurl }}/builds/{{ page.build_path }}/UnityLoader.js"></script>
         <script>
-      var gameInstance = UnityLoader.instantiate("gameContainer", "/builds/{{ page.build_path }}/{{ page.build_webgl_name }}.json");
+      var gameInstance = UnityLoader.instantiate("gameContainer", "{{ site.baseurl }}/builds/{{ page.build_path }}/{{ page.build_webgl_name }}.json");
     </script>
     {% endif %}
 </head>
