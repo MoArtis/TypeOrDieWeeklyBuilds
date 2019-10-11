@@ -27,7 +27,7 @@ build_WebGL_name: TOD_WebGL
     <h2>Downloads</h2>
     <p>
         {% for download in downloads %}
-            <a href="{{ site.baseurl }}/Builds/{{ page.build_path }}/{{ download.url }}">{{ download.title }}</a>
+            <a href="{{ site.baseurl }}/builds/{{ page.build_path }}/{{ download.url }}">{{ download.title }}</a>
             {%- if forloop.index < downloads.size -%}
                 &nbsp;-
             {% endif %}
