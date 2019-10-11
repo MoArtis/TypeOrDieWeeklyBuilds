@@ -1,0 +1,95 @@
+{
+  "name": "Portal",
+  "compatibleLanguages": [
+    "EN"
+  ],
+  "contextKeys": [
+    "Portal"
+  ],
+  "typingChallenges": [
+    {
+      "displayText": null,
+      "referenceText": "Open",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "Alakazam",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "Go",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "Enter",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "Slip through",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "Summon",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "Unlock",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "Traverse",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "Travel",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "Jump",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "Teleport",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "Let me in",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    }
+  ]
+}

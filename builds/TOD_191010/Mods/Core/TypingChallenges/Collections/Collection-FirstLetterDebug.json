@@ -1,0 +1,95 @@
+{
+  "name": "FirstLetterDebug",
+  "compatibleLanguages": [
+    "EN"
+  ],
+  "contextKeys": [
+    "OrderedTest2"
+  ],
+  "typingChallenges": [
+    {
+      "displayText": null,
+      "referenceText": "A!AA",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "BB$B",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "C^CC",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "!AAA",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": ".AAA",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "?AA.A",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "%AAA",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "aaa",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "bbb",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "ccc",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "ABC",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "#,a$A.C",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    }
+  ]
+}

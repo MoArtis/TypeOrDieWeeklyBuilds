@@ -1,0 +1,11 @@
+{
+    "typingLanguageId": "EN",
+    "modConfigs": [
+        {
+            "name": "Core",
+            "isLocal": true,
+            "isActivated": true,
+            "directoryName": "Core"
+        }
+    ]
+}

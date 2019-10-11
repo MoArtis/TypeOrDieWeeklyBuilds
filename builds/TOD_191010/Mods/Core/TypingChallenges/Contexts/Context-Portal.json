@@ -1,0 +1,12 @@
+{
+    "name": "Portal",
+    "type": "Basic",
+    "description": "",
+    "alwaysShowDescription": false,
+	"areLinkedChallengesOrdered": false,
+    "areChallengesOrdered": false,
+    "relatedCollections": [],
+	"errorCountToFail": 0,
+	"speedToFail": 0,
+	"minChallengeCount": 0
+}

@@ -1,0 +1,89 @@
+{
+  "name": "OneCharAlphabetUpper",
+  "compatibleLanguages": [
+    "FR", "EN", "SC"
+  ],
+  "contextKeys": [
+    "Reaction"
+  ],
+  "typingChallenges": [
+    {
+      "referenceText": "A"
+    },
+    {
+      "referenceText": "B"
+    },
+    {
+      "referenceText": "C"
+    },
+    {
+      "referenceText": "D"
+    },
+    {
+      "referenceText": "E"
+    },
+    {
+      "referenceText": "F"
+    },
+    {
+      "referenceText": "G"
+    },
+    {
+      "referenceText": "H"
+    },
+    {
+      "referenceText": "I"
+    },
+    {
+      "referenceText": "J"
+    },
+    {
+      "referenceText": "K"
+    },
+    {
+      "referenceText": "L"
+    },
+    {
+      "referenceText": "M"
+    },
+	{
+      "referenceText": "N"
+    },
+    {
+      "referenceText": "O"
+    },
+    {
+      "referenceText": "P"
+    },
+    {
+      "referenceText": "Q"
+    },
+    {
+      "referenceText": "R"
+    },
+    {
+      "referenceText": "S"
+    },
+    {
+      "referenceText": "T"
+    },
+    {
+      "referenceText": "U"
+    },
+	{
+      "referenceText": "V"
+    },
+	{
+      "referenceText": "W"
+    },
+	{
+      "referenceText": "X"
+    },
+	{
+      "referenceText": "Y"
+    },
+	{
+      "referenceText": "Z"
+    }
+  ]
+}

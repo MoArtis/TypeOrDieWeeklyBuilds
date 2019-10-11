@@ -1,0 +1,170 @@
+{
+  "name": "OrderedTcTest",
+  "compatibleLanguages": [
+    "EN"
+  ],
+  "contextKeys": [],
+  "typingChallenges": [
+    {
+      "displayText": null,
+      "referenceText": "00",
+      "linkedChallengeCount": 2,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "01",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "02",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "10",
+      "linkedChallengeCount": 1,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "11",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "20",
+      "linkedChallengeCount": 5,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "21",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "22",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "23",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "24",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "25",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "30",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "40",
+      "linkedChallengeCount": 2,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "41",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "42",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "50",
+      "linkedChallengeCount": 7,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "51",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "52",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "53",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "54",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "55",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "56",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "57",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    }
+  ]
+}
