@@ -25,14 +25,14 @@ build_WebGL_name: TOD_WebGL
 {% assign downloads = page.downloads | where_exp: "item", "item.url.size > 0" %}
 {%- if downloads.size > 0 -%}
     <h2>Downloads</h2>
-    {% for download in downloads %}
-        <a href="/Builds/{{ page.build_name }}{{ download.url }}">{{ download.title }}</a>
-        {%- if forloop.index < downloads.size -%}
-            &nbsp;-
-        {% endif %}
-    {% endfor %}
-    <br>
-    <br>
+    <p>
+        {% for download in downloads %}
+            <a href="/Builds/{{ page.build_path }}/{{ download.url }}">{{ download.title }}</a>
+            {%- if forloop.index < downloads.size -%}
+                &nbsp;-
+            {% endif %}
+        {% endfor %}
+    </p>
 {%- endif -%}
 
 <!-- -- Summary -- -->

@@ -1,8 +1,0 @@
-{
-    "name": "Core",
-    "author": "Sparkling Vinegar",
-    "targetVersion": "0.0.1",
-    "url": "www.4chan.org",
-    "description": "The core functionalities of Type or Die.",
-    "isCore": 1
-}

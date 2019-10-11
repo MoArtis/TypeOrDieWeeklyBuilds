@@ -1,0 +1,41 @@
+{
+  "name": "OneCharNumbers",
+  "compatibleLanguages": [
+    "FR", "EN", "SC"
+  ],
+  "contextKeys": [
+    "Reaction"
+  ],
+  "typingChallenges": [
+    {
+      "referenceText": "0"
+    },
+    {
+      "referenceText": "1"
+    },
+    {
+      "referenceText": "2"
+    },
+    {
+      "referenceText": "3"
+    },
+    {
+      "referenceText": "4"
+    },
+    {
+      "referenceText": "5"
+    },
+    {
+      "referenceText": "6"
+    },
+    {
+      "referenceText": "7"
+    },
+    {
+      "referenceText": "8"
+    },
+    {
+      "referenceText": "9"
+    }
+  ]
+}

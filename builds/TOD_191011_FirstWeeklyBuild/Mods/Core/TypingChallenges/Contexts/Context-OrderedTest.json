@@ -1,0 +1,13 @@
+{
+    "name": "OrderedTest",
+    "type": "Basic",
+    "description": "Ceci n'est pas un test...",
+    "alwaysShowDescription": false,
+	"areChallengesOrdered": true,
+	"areLinkedChallengesOrdered": false,
+    "linkedCollections": [],
+	"errorCountToFail": 0,
+	"speedToFail": 0,
+	"minChallengeCount": 0,
+	"areLinkedChallengesUsedAtOnce" : true
+}

@@ -1,0 +1,144 @@
+{
+  "name": "Question-EN",
+  "compatibleLanguages": [
+    "EN"
+  ],
+  "contextKeys": [
+    "Question"
+  ],
+  "typingChallenges": [
+    {
+      "displayText": "Are you playing a video game?",
+      "referenceText": "",
+      "linkedChallengeCount": 6,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "Yes",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "No",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "A what?",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "Maybe...",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "Nope",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "Never!",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": "Which one is a famous vampire activity?",
+      "referenceText": null,
+      "linkedChallengeCount": 6,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": "",
+      "referenceText": "Sucking",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "Sunbathing",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "Praying",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "Garlic cooking",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "Toothbrushing",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "Shopping",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": "6 + 7 x 2 = ?",
+      "referenceText": null,
+      "linkedChallengeCount": 4,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "Twenty",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "Twenty-six",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "Fifteen",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "Nineteen",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    }
+  ]
+}

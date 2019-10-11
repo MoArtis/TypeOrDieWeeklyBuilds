@@ -1,0 +1,195 @@
+{
+  "name": "OneCharAlphabetLower",
+  "compatibleLanguages": [
+    "FR",
+    "EN",
+    "SC"
+  ],
+  "contextKeys": [
+    "Reaction"
+  ],
+  "typingChallenges": [
+    {
+      "displayText": null,
+      "referenceText": "a",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "b",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "c",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "d",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "e",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "f",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "g",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "h",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "i",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "j",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "k",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "l",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "m",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "n",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "o",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "p",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "q",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "r",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "s",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "t",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "u",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "v",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "w",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "x",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "y",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    },
+    {
+      "displayText": null,
+      "referenceText": "z",
+      "linkedChallengeCount": 0,
+      "definition": null,
+      "difficultyModifier": 0
+    }
+  ]
+}

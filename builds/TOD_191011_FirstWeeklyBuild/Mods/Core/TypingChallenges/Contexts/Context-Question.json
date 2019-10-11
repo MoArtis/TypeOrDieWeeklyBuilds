@@ -1,0 +1,16 @@
+{
+    "name": "Question",
+    "type": "Instruction",
+    "description": "Context for Questions",
+    "alwaysShowDescription": false,
+	"areLinkedChallengesOrdered": false,
+    "areChallengesOrdered": false,
+    "relatedCollections": [],
+	"errorCountToFail": 0,
+	"speedToFail": 0,
+	"minChallengeCount": 0,
+	"instructionBoxCount": 1,
+	"validBoxCount": 1,
+	"contextFailOnCompletingInvalid": 1,
+	"killThingsAttachedToWrongAnswers": 1
+}
